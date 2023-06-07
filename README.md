@@ -1,0 +1,2 @@
+# The Antihero
+My first "experience" with programming of any sort. If you exclude batch and vbs. So this was going to be a fanmade for a game called Dancing Line, however this was mostly followed by tutorials and due to my lack of understanding back then, the project came to a halt pretty quickly. I had some good ideas, though.
